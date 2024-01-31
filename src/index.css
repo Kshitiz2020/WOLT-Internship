@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .background-and-opacity {
+    background-color: rgba(0, 64, 77, 0.95);
+  }
+}
+
+/* * {
+  border: 2px solid white;
+} */
